@@ -29,5 +29,9 @@ Proceed through the Lubuntu Setup. Leave all settings default, except:
 * What apps would you like to install to start with: ***Minimal Installation***
 
 ## Install VirtualBox Guest Additions
+When your install is done, you will notice that even when you go fullscreen, the actual viewport stays small. 
+
+Guest Additions fixes this problem
+
 
 
