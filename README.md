@@ -37,7 +37,7 @@ Click ***Devices*** at the top of the window then click ***Choose a disk file...
 
 Navigate to ***C:/Program Files/Oracle/VirtualBox*** and select ***VBoxGuestAdditions***
 
-Open a terminal window and navigate to ***/media/user/***
+Open a terminal window and navigate to ***/media/user/VBox_GAs_6.1.0***
 
 Run
 
