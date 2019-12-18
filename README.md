@@ -25,4 +25,7 @@ Leave all settings set to default except:
 
 Insert your Lubuntu ISO into the VirtualBox drive, then click __Start__
 
+Proceed through the Lubuntu Setup. Leave all settings default, except:
+* What apps would you like to install to start with: Minimal Installation
+
 
