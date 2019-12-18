@@ -33,5 +33,10 @@ When your install is done, you will notice that even when you go fullscreen, the
 
 Guest Additions fixes this problem
 
+Click ***Devices*** at the top of the window then click ***Choose a disk file...***
+
+Navigate to ***C:/Program Files/Oracle/VirtualBox*** and select ***VBoxGuestAdditions***
+
+
 
 
