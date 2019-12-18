@@ -8,7 +8,7 @@ Download VirtualBox for your OS.
 Download Lubuntu 18.04 Bionic Beaver 64bit
 >http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04-desktop-amd64.iso
 
-### VirtualBox initialization
+## VirtualBox initialization
 Open VirtualBox and click ***New*** in the top menu
 
 Give your virtual machine a name. 
@@ -27,5 +27,7 @@ Insert your Lubuntu ISO into the VirtualBox drive, then click __Start__
 
 Proceed through the Lubuntu Setup. Leave all settings default, except:
 * What apps would you like to install to start with: ***Minimal Installation***
+
+## Install VirtualBox Guest Additions
 
 
