@@ -42,7 +42,9 @@ Open a terminal window and navigate to ***/media/user/***
 Run
 
 '''c
+
 sudo ./VBoxLinuxAdditions.run
+
 '''
 
 
