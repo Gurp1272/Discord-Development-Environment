@@ -35,7 +35,7 @@ Guest Additions fixes this problem
 
 Open terminal
 
-Run
+**Run**
 
 ```
 sudo apt-get update
@@ -59,7 +59,7 @@ Navigate to ***C:/Program Files/Oracle/VirtualBox*** and select ***VBoxGuestAddi
 
 Open a terminal window and navigate to ***/media/user/VBox_GAs_6.1.0***
 
-Run
+**Run**
 
 ```
 sudo ./VBoxLinuxAdditions.run
