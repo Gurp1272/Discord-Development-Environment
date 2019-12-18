@@ -71,10 +71,6 @@ reboot
 
 Remove Guest Additions from the virtual optical drive
 
-Proceed to ***Preferences*** then ***Monitor Settings***
-
-Change Resolution: ***Auto***
-
 
 
 
