@@ -110,7 +110,7 @@ sudo emacs -nw example.rb
 ```
 This opens the file in bash editor
 
-To open a window leave out the ***-nw***
+To open a window, leave out the ***-nw***
 
 
 
