@@ -8,7 +8,7 @@ Download VirtualBox for your OS.
 Download Lubuntu 18.04 Bionic Beaver 64bit
 >http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04-desktop-amd64.iso
 
-Open VirtualBox and click 'New' in the top menu.
+##Open VirtualBox and click 'New' in the top menu.
 
 Give your virtual machine a name. 
 
