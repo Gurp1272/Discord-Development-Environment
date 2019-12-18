@@ -17,4 +17,4 @@ Select Type: Linux
 
 Version: Debian (64-bit)
 
-_ Next _
+__Next__
