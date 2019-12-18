@@ -19,9 +19,9 @@ Give your virtual machine a name.
 
 Leave all settings set to default except:
 
-Set memory allocation to: 4028MB
+* Set memory allocation to: 4028MB
 
-Set hard disk size to: 32GB
+* Set hard disk size to: 32GB
 
 
 
