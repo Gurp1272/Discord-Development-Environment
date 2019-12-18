@@ -45,5 +45,9 @@ Run
 sudo ./VBoxLinuxAdditions.run
 ```
 
+```
+reboot
+```
+
 
 
