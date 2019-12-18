@@ -16,3 +16,5 @@ Give your virtual machine a name.
 Select Type: Linux
 
 Version: Debian (64-bit)
+
+** Next **
