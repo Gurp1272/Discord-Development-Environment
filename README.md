@@ -23,5 +23,6 @@ Leave all settings set to default except:
 
 * Set hard disk size to: 32GB
 
+Insert your Lubuntu ISO into the VirtualBox drive, then click __Start__
 
 
