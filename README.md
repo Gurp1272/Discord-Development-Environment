@@ -13,29 +13,29 @@ Open VirtualBox and click 'New' in the top menu
 
 Give your virtual machine a name. 
 
-Select Type: Linux
+  Select Type: Linux
 
-Version: Debian (64-bit)
-
-Click __Next__
-
-Memory Size: 4028MB
+  Version: Debian (64-bit)
 
 Click __Next__
 
-Hard Disk: Create a virtual disk now
+  Memory Size: 4028MB
+
+Click __Next__
+
+  Hard Disk: Create a virtual disk now
 
 Click __Create__
 
-Hard disk file type: VDI
+  Hard disk file type: VDI
 
 Click __Next__
 
-Storage on physical hard disk: Dynamically allocated
+  Storage on physical hard disk: Dynamically allocated
 
 Click __Next__
 
-File location and size: 32GB
+  File location and size: 32GB
 
 Click __Create__
 
