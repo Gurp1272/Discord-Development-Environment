@@ -71,6 +71,44 @@ reboot
 
 Remove Guest Additions from the virtual optical drive
 
+## Install Ruby and pull in discordrb dependency
+
+Open terminal
+
+**Run**
+
+```
+sudo apt-get install ruby-full
+```
+
+```
+sudo gem install discordrb
+```
+
+## Optional Install of Emacs26 as text editor
+
+Open terminal
+
+**Run**
+
+```
+sudo add-apt-repository ppa:kelleyk/emacs
+```
+
+```
+sudo apt-get update
+```
+
+```
+sudo apt install emacs26
+```
+
+Once that is installed. To create a file to edit ***Run***
+
+```
+sudo emacs -nw example.rb
+```
+
 
 
 
