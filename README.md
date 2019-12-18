@@ -17,4 +17,27 @@ Select Type: Linux
 
 Version: Debian (64-bit)
 
-__Next__
+Click __Next__
+
+Memory Size: 4028MB
+
+Click __Next__
+
+Hard Disk: Create a virtual disk now
+
+Click __Create__
+
+Hard disk file type: VDI
+
+Click __Next__
+
+Storage on physical hard disk: Dynamically allocated
+
+Click __Next__
+
+File location and size: 32GB
+
+Click __Create__
+
+
+
