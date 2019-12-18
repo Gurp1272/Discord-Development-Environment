@@ -49,6 +49,10 @@ sudo apt-get upgrade
 sudo apt-get install dkms
 ```
 
+```
+reboot
+```
+
 Click ***Devices*** at the top of the window then click ***Choose a disk file...***
 
 Navigate to ***C:/Program Files/Oracle/VirtualBox*** and select ***VBoxGuestAdditions***
