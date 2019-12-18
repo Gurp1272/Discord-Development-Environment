@@ -13,19 +13,19 @@ Open VirtualBox and click 'New' in the top menu
 
 Give your virtual machine a name. 
 
-  Select Type: Linux
+  Select Type: ***Linux***
 
-  Version: Debian (64-bit)
+  Version: ***Debian (64-bit)***
 
 Leave all settings set to default except:
 
-* Set memory allocation to: 4028MB
+* Set memory allocation to: ***4028MB***
 
-* Set hard disk size to: 32GB
+* Set hard disk size to: ***32GB***
 
 Insert your Lubuntu ISO into the VirtualBox drive, then click __Start__
 
 Proceed through the Lubuntu Setup. Leave all settings default, except:
-* What apps would you like to install to start with: Minimal Installation
+* What apps would you like to install to start with: ***Minimal Installation***
 
 
