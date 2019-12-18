@@ -33,6 +33,22 @@ When your install is done, you will notice that even when you go fullscreen, the
 
 Guest Additions fixes this problem
 
+Open terminal
+
+Run
+
+```
+sudo apt-get update
+```
+
+```
+sudo apt-get upgrade
+```
+
+```
+sudo apt-get install dkms
+```
+
 Click ***Devices*** at the top of the window then click ***Choose a disk file...***
 
 Navigate to ***C:/Program Files/Oracle/VirtualBox*** and select ***VBoxGuestAdditions***
@@ -48,6 +64,14 @@ sudo ./VBoxLinuxAdditions.run
 ```
 reboot
 ```
+
+Remove Guest Additions from the virtual optical drive
+
+Proceed to ***Preferences*** then ***Monitor Settings***
+
+Change Resolution: ***Auto***
+
+
 
 
 
