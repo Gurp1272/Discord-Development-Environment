@@ -112,6 +112,14 @@ This opens the file in bash editor
 
 To open emacs in window mode, leave out the ***-nw***
 
+## Useful documentation and resources
+
+>https://discordapp.com/developers/docs/intro
+>https://github.com/discordrb/discordrb/wiki/Basic-bot-creation
+>https://github.com/discordrb/discordrb/wiki/Events
+>https://www.rubydoc.info/gems/discordrb/Discordrb
+>https://github.com/AnIdiotsGuide/discordjs-bot-guide/blob/master/understanding/events-and-handlers.md
+
 
 
 
