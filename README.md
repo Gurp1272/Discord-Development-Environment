@@ -124,6 +124,8 @@ To open emacs in window mode, leave out the ***-nw***
 
 >https://github.com/AnIdiotsGuide/discordjs-bot-guide/blob/master/understanding/events-and-handlers.md
 
+>https://gabrieltanner.org/blog/dicord-music-bot
+
 
 
 
