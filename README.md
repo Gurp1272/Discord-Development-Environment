@@ -126,6 +126,8 @@ To open emacs in window mode, leave out the ***-nw***
 
 >https://gabrieltanner.org/blog/dicord-music-bot
 
+>https://github.com/MusicGenerator/mumble-ruby-pluginbot
+
 
 
 
